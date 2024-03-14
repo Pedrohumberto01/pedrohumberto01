@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub 👋
 
-<!--
-**Pedrohumberto01/pedrohumberto01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Pedro Humberto Romero, ¡bienvenido a mi espacio en GitHub! Aquí encontrarás información sobre mí y mis proyectos.
 
-Here are some ideas to get you started:
+## Sobre mí
+Ingeniero en sistemas de informacion con conocimientos en programacion desktop, bases de datos y linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- **Correo electrónico:** tu@email.com
+- **LinkedIn:** [tu perfil de LinkedIn](enlace a tu perfil de LinkedIn)
+- **Twitter:** [@tu_usuario_de_twitter](enlace a tu perfil de Twitter)
+
+¡Gracias por visitar mi perfil!
+
