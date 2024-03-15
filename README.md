@@ -6,9 +6,7 @@
 Ingeniero en sistemas de informacion con conocimientos en programacion desktop, bases de datos y linux
 
 ## Contacto
-- **Correo electrónico:** tu@email.com
-- **LinkedIn:** [tu perfil de LinkedIn](enlace a tu perfil de LinkedIn)
-- **Twitter:** [@tu_usuario_de_twitter](enlace a tu perfil de Twitter)
+- **Correo electrónico:** pcolindres8@gmail.com
 
 ¡Gracias por visitar mi perfil!
 
